@@ -817,6 +817,9 @@ letter-spacing: 0.02em;
     .portfolio-list-item{
         width: calc((100% - 24px) / 2)
     }
+    .portfolio-descr-box{
+        max-width: 356px;
+    }
     .footer-info{
         margin-right: 24px;
         align-items: start;
